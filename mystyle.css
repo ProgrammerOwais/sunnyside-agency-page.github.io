@@ -3,9 +3,6 @@
     padding: 0;
 }
 body {
-
-    -webkit-overflow-x:hidden;
-    -moz-overflow-x:hidden;
     overflow-x: hidden;
     font-size: 18px;
     background-color:hsl(0, 0%, 100%);
@@ -167,7 +164,7 @@ main {
 
 .main-section {
     position: relative;
-    top: 240px;
+    top: 200px;
 }
 
 /* SECTION1
