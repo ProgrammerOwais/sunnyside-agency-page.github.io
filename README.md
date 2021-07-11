@@ -1,5 +1,10 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
+### Links
+
+- Solution URL: https://github.com/ProgrammerOwais/sunnyside-agency-page.github.io
+- Live Site URL: https://programmerowais.github.io/sunnyside-agency-page.github.io/
+
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
@@ -27,10 +32,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-### Links
-
-- Solution URL: https://github.com/ProgrammerOwais/sunnyside-agency-page.github.io
-- Live Site URL: https://programmerowais.github.io/sunnyside-agency-page.github.io/
 
 ## My process
 
