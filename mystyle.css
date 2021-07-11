@@ -58,7 +58,9 @@ h2 {
 }
 
 .toggle {
+    position: absolute;
     transform: translateX(0%);
+    
 }
 .triangle  {
     background-color:white;
